@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zain! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Zain! <br/><a href="www.linkedin.com/in/zain-qureshi-82b7b7224">Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
